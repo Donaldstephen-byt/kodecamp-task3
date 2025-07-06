@@ -1,0 +1,1775 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    /* Landing Site */
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  max-width: 1440px;
+ 
+  
+
+    padding: 0;
+    /* line-height: 1.6; */
+    align-items: center;
+    display: flex;
+   align-items: center;
+   justify-content: center;
+   overflow-y: scroll;
+   background-image: url(./asset-capstone/image/Rectangle\ 599.png);
+overflow-x: hidden;
+}
+
+ @media(max-width:1440px){
+    body{zoom:0.928}
+  }
+  
+
+
+    /* Rectangle 599 */
+
+
+
+.fim-lay{
+    /* Frame 176 */
+
+position: absolute;
+width: 253px;
+height: 170px;
+left: -33px;
+top: -25px;
+
+}
+
+.fim-lay2{
+    /* TrackWise..Artboard 3 1 */
+
+position: absolute;
+width: 223px;
+height: 178.78px;
+left: 8px;
+top: 11px;
+
+background: url(TrackWise..Artboard_3-removebg-preview.png);
+
+}
+
+.feature{
+    /* Features */
+
+position: absolute;
+width: 214px;
+height: 38px;
+left: 259px;
+top: 52px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+text-align: center;
+
+color: #000000;
+}
+
+.how-it-work{
+    /* How it Works */
+
+position: absolute;
+width: 214px;
+height: 38px;
+left: 438px;
+top: 52px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+text-align: center;
+
+color: #000000;
+}
+
+.company{
+    /* Company */
+
+position: absolute;
+width: 214px;
+height: 38px;
+left: 617px;
+top: 52px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+text-align: center;
+
+color: #000000;
+
+}
+
+
+
+.bts1{
+    /* Rectangle 603 */
+
+position: absolute;
+width: 180px;
+height: 60px;
+left: 1022px;
+top: 40px;
+
+background: #CBFFD0;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 20px;
+}
+
+.bts2{
+    /* Rectangle 602 */
+
+position: absolute;
+width: 180px;
+height: 60px;
+left: 1219px;
+top: 40px;
+
+background: #26A69A;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 20px;
+
+}
+
+.track-money{
+    /* Track Your Money. Master Your Future. */
+
+position: absolute;
+width: 750px;
+height: 210px;
+left: 46px;
+top: 285px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 98px;
+
+color: #000000;
+}
+
+.proper-con{
+    /* Track Wise helps you stay on top of your income, control your daily spending, budget and achieve your financial goals. */
+
+position: absolute;
+width: 750px;
+height: 210px;
+left: 46px;
+top: 484px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 48px;
+
+color: #000000;
+
+
+}
+
+.action{
+    /* Actions */
+
+position: absolute;
+width: 465.34px;
+height: 70px;
+left: 46px;
+top: 720px;
+display: flex;
+flex-direction: row;
+}
+
+.badge1{
+    /* Mobile app store badge */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 210px;
+height: 70px;
+left: 0px;
+top: 0px;
+
+/* Black */
+background: #000000;
+mix-blend-mode: normal;
+border: 1.59091px solid #A6A6A6;
+border-radius: 11.1364px;
+display: flex;
+flex-direction: row;
+}
+
+.badge2{
+    /* Mobile app store badge */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 236.25px;
+height: 70px;
+left: 229.09px;
+top: 0px;
+
+/* Black */
+background: #000000;
+mix-blend-mode: normal;
+border: 1.59091px solid #A6A6A6;
+border-radius: 7.95455px;
+display: flex;
+flex-direction: row;
+
+}
+
+.apple-logo{
+    /* Apple logo */
+
+position: absolute;
+left: 8.31%;
+right: 76.93%;
+top: 21.8%;
+bottom: 23.76%;
+
+
+}
+
+.apple-content{
+    display: flex;
+    flex-direction: column;
+}
+
+.download1{
+ /* Download on the */
+
+position: absolute;
+left: 29.71%;
+right: 12.66%;
+top: 21.04%;
+bottom: 63.03%;
+
+/* White */
+color: #FFFFFF;
+   
+}
+
+.ct2{
+    /* App Store */
+
+position: absolute;
+left: 28.71%;
+right: 8.73%;
+top: 44.43%;
+bottom: 16.26%;
+color: #FFFFFF;
+
+}
+
+.playst111{
+    /* Google Play logo */
+
+position: absolute;
+width: 40.41px;
+height: 45.01px;
+left: 17.45px;
+top: 12.5px;
+
+box-shadow: inset 0px 0.238637px 0px rgba(255, 255, 255, 0.25), inset 0px -0.238637px 0px rgba(0, 0, 0, 0.12);
+
+}
+
+.vec111{
+    /* Vector */
+
+position: absolute;
+left: 7.39%;
+right: 83.04%;
+top: 18.66%;
+bottom: 18.66%;
+
+background: linear-gradient(207.27deg, #00A0FF 6.16%, #00A1FF 6.75%, #00BEFF 29.14%, #00D2FF 51.41%, #00DFFF 73.33%, #00E3FF 94.5%);
+
+    
+}
+
+.vec222{
+/* Vector */
+
+position: absolute;
+left: 16.96%;
+right: 75.51%;
+top: 39.31%;
+bottom: 39.3%;
+
+background: linear-gradient(270deg, #FFE000 -7.58%, #FFBD00 89.71%, #FFA500 177.01%, #FF9C00 230.48%);
+
+}
+
+
+.vec333{
+/* Vector */
+
+position: absolute;
+left: 7.73%;
+right: 79.91%;
+top: 50%;
+bottom: 17.85%;
+
+background: linear-gradient(232.38deg, #FF3A44 15.53%, #C31162 169.58%);
+box-shadow: inset 0px -0.238637px 0px rgba(0, 0, 0, 0.08);
+
+}
+
+.vec444{
+/* Vector */
+
+position: absolute;
+left: 7.73%;
+right: 79.91%;
+top: 17.85%;
+bottom: 49.99%;
+
+background: linear-gradient(127.62deg, #32A071 -34.19%, #2DA771 -29.48%, #15CF74 -1.44%, #06E775 20.9%, #00F076 34.6%);
+
+}
+
+.get2525{
+    /* Get it on */
+
+position: absolute;
+left: 30.63%;
+right: 40.59%;
+top: 17.16%;
+bottom: 67.16%;
+color:  #FFFFFF;
+
+/* White */
+/* background: #FFFFFF; */
+/* White */
+/* border: 0.318182px solid #FFFFFF; */
+
+}
+
+.get666{
+    /* Google Play */
+
+position: absolute;
+left: 30.4%;
+right: 6.8%;
+top: 42.62%;
+bottom: 14.81%;
+color: #FFFFFF;
+
+/* White */
+/* background: #FFFFFF; */
+
+}
+
+.reg333{
+    /* Rectangle 604 */
+
+position: absolute;
+width: 575px;
+height: 714px;
+left: 986px;
+top: 265px;
+
+background: #CBFFD0;
+border-radius: 300px 0px 0px 0px;
+
+}
+
+.mac333{
+    /* mockuuups-free-macbook-pro-mockup-on-stone-pedestal-removebg-preview 1 */
+
+position: absolute;
+width: 969px;
+height: 727.14px;
+left: 677px;
+top: 298px;
+
+background: url(mockuuups-free-macbook-pro-mockup-on-stone-pedestal-removebg-preview.png);
+
+}
+
+.px3333{
+    /* iMockup - Google Pixel 8 Pro */
+
+position: absolute;
+width: 161.72px;
+height: 184.5px;
+left: 951.42px;
+top: 624.36px;
+
+background: url(.png);
+
+}
+
+.section2{
+/* Rectangle 610 */
+
+position: absolute;
+width: 1440px;
+height: 1024px;
+left: 4px;
+top: 979px;
+
+background: #FFFFFF;
+box-shadow: 0px -10px 30px 1px rgba(0, 0, 0, 0.25), 0px 10px 30px 1px rgba(0, 0, 0, 0.25);
+border-radius: 0px;
+/* transform: rotate(180deg); */
+
+
+}
+
+
+.section2{
+    /* Rectangle 610 */
+
+position: absolute;
+width: 1440px;
+height: 1024px;
+left: 4px;
+top: 979px;
+
+background: #FFFFFF;
+box-shadow: 0px -10px 30px 1px rgba(0, 0, 0, 0.25), 0px 10px 30px 1px rgba(0, 0, 0, 0.25);
+border-radius: 0px;
+/* transform: rotate(180deg); */
+
+}
+
+.part10{/* Rectangle 605 */
+
+position: absolute;
+width: 575px;
+height: 714px;
+left: -96px;
+/* top: 979px; */
+
+background: #26A69A;
+border-radius: 300px 0px 0px 0px;
+transform: rotate(180deg);
+}
+
+.cast444{
+/* mockuuups-free-iphone-15-pro-hand-mockup 1 */
+
+position: absolute;
+width: 559.45px;
+height: 520px;
+left: -14px;
+top: 155px;
+
+background: url(mockuuups-free-iphone-15-pro-hand-mockup.png);
+filter: drop-shadow(-28px -6px 30px rgba(0, 0, 0, 0.25));
+
+}
+
+.reg606d{
+    /* Our Features */
+
+position: absolute;
+width: 362px;
+height: 72px;
+left: 615px;
+top: 037px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 72px;
+/* identical to box height */
+
+color: #000000;
+
+
+}
+
+.incex{
+    /* Rectangle 606 */
+
+position: absolute;
+width: 300px;
+height: 320px;
+left: 621px;
+top: 100px;
+top: 152px;
+
+background: #CBFFD0;
+border-radius: 27px;
+/* transform: rotate(180deg); */
+
+}
+
+
+
+
+.smallc2{
+    /* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 12.5%;
+top: 12.5%;
+bottom: 8.33%;
+
+
+}
+
+.inwrite1{
+    /* Our Features */
+
+position: absolute;
+width: 262px;
+height: 78px;
+left: 8.33%;
+top: 70px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 27px;
+line-height: 40px;
+
+color: #000000;
+
+
+}
+
+.inwrite2{
+    /* Easily log what you earn and spend, and stay within your budget. */
+
+position: absolute;
+width: 250px;
+height: 140px;
+left: 20px;
+top: 170px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+
+color: #000000;
+
+
+}
+
+.elect234{
+    /* Rectangle 611 */
+
+position: absolute;
+width: 300px;
+height: 320px;
+left: 1033px;
+top: 152px;
+
+background: #26A69A;
+border-radius: 27px;
+/* transform: rotate(180deg); */
+
+}
+
+.uisc{
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+}
+
+.vrep456{
+  /* Our Features */
+
+position: absolute;
+width: 250px;
+height: 72px;
+left: 8.33%;
+top: 90px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 27px;
+line-height: 40px;
+
+color: #000000;
+
+  
+}
+
+.vrep789{
+    /* Get graphs and weekly summaries to better understand your finances. */
+
+position: absolute;
+width: 250px;
+height: 120px;
+left: 20px;
+top: 150px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+
+color: #000000;
+
+
+}
+
+.crt3345{
+    /* Rectangle 613 */
+
+position: absolute;
+width: 300px;
+height: 320px;
+left: 621px;
+top: 588px;
+
+background: #26A69A;
+border-radius: 27px;
+/* transform: rotate(180deg); */
+
+}
+
+.bxsnote{
+    /* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+}
+
+.srem456{
+    /* Our Features */
+
+position: absolute;
+width: 250px;
+height: 72px;
+left: 8.33%;
+top: 28.33%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 27px;
+line-height: 40px;
+
+color: #000000;
+
+
+}
+
+.spending555{
+    /* Set alerts to log spending or check your weekly budget. */
+
+position: absolute;
+width: 250px;
+height: 210px;
+left: 8.33%;
+top: 48.33%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+
+color: #000000;
+
+}
+
+.cracks911{
+/* Rectangle 612 */
+
+position: absolute;
+width: 300px;
+height: 320px;
+left: 1033px;
+top: 588px;
+
+background: #CBFFD0;
+border-radius: 27px;
+/* transform: rotate(180deg); */
+
+}
+
+.advenges{
+    /* Vector */
+
+position: absolute;
+left: 16.6%;
+right: 16.67%;
+top: 12.5%;
+bottom: 12.5%;
+
+}
+
+.fins5656{
+    /* Our Features */
+
+position: absolute;
+width: 250px;
+height: 72px;
+left: 16.6%;
+top: 30%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 27px;
+line-height: 40px;
+
+color: #000000;
+
+
+}
+
+.habitrab{
+    /* Receive intelligent tips based on your habits. */
+
+position: absolute;
+width: 250px;
+height: 210px;
+left: 16.6%;
+top: 48.33%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+
+color: #000000;
+
+}
+
+.section3458{
+    /* Rectangle 614 */
+
+position: absolute;
+width: 1440px;
+height: 1024px;
+left: 4px;
+top: 2003px;
+
+border-radius: 0px;
+/* transform: rotate(180deg); */
+
+}
+
+.walkabout{
+    /* Our Features */
+
+position: absolute;
+width: 476px;
+height: 72px;
+left: calc(50% - 476px/2);
+top: 106px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 72px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+}
+
+
+
+.creatfree23{
+    /* Rectangle 620 */
+
+position: absolute;
+width: 500px;
+height: 70px;
+left: 40px;
+top: 248px;
+
+background: #CBFFD0;
+border-radius: 27px;
+/* transform: rotate(180deg); */
+
+}
+
+.setbut666{
+    /* Rectangle 619 */
+
+position: absolute;
+width: 500px;
+height: 70px;
+left: 896px;
+top: 248px;
+
+background: #CBFFD0;
+border-radius: 27px;
+/* transform: rotate(180deg); */
+
+}
+
+.setbuttex123{
+    /* Our Features */
+
+position: absolute;
+width: 474px;
+height: 36px;
+left: 30px;
+top: 10px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+}
+
+.setbuttex456{
+/* Our Features */
+
+position: absolute;
+width: 474px;
+height: 36px;
+left: 30px;
+top: 10px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+}
+
+
+.trackshit123{
+/* Rectangle 622 */
+
+position: absolute;
+width: 500px;
+height: 70px;
+left: 155px;
+top: 364px;
+
+background: #26A69A;
+border-radius: 27px;
+/* transform: rotate(180deg); */
+
+
+}
+
+.trackshit456{
+    /* Our Features */
+
+position: absolute;
+width: 474px;
+height: 36px;
+left: 168px;
+top: 381px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+}
+
+.smartrep777{
+    /* Rectangle 621 */
+
+position: absolute;
+width: 500px;
+height: 70px;
+left: 785px;
+top: 364px;
+
+background: #26A69A;
+border-radius: 27px;
+/* transform: rotate(180deg); */
+
+}
+
+.smartrep888{
+    /* Our Features */
+
+position: absolute;
+width: 474px;
+height: 36px;
+left: 800px;
+top: 381px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+}
+
+.lion555{
+    /* Rectangle 616 */
+
+position: absolute;
+width: 575px;
+height: 714px;
+left: 145px;
+top: 600px;
+
+background: #CBFFD0;
+border-radius: 300px 0px 0px 0px;
+
+}
+
+.lion666{
+    /* Rectangle 617 */
+
+position: absolute;
+width: 575px;
+height: 714px;
+left: 720px;
+top: 600px;
+
+background: #CBFFD0;
+border-radius: 300px 0px 0px 0px;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+}
+
+.holdingp52{
+    /* mockuuups-female-hand-holding-iphone-14-pro-mockup 1 */
+
+position: absolute;
+width: 643.35px;
+height: 914px;
+left: 515px;
+top: 483px;
+
+background: url(mockuuups-female-hand-holding-iphone-14-pro-mockup.png);
+
+}
+
+.section4557{
+    /* Rectangle 615 */
+
+position: absolute;
+width: 1440px;
+height: 1024px;
+left: 4px;
+top: 3027px;
+
+background: #FFFFFF;
+box-shadow: 0px -10px 30px 1px rgba(0, 0, 0, 0.25), 0px 10px 30px 1px rgba(0, 0, 0, 0.25);
+border-radius: 0px;
+/* transform: rotate(180deg); */
+
+}
+
+.testimony444{
+    /* Our Features */
+
+position: absolute;
+width: 476px;
+height: 72px;
+left: calc(50% - 476px/2);
+top: 44px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 72px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+}
+
+.vec342323{
+    /* Rectangle 626 */
+
+position: absolute;
+width: 575px;
+height: 427px;
+left: -220px;
+top: 0px;
+
+background: #26A69A;
+border-radius: 300px 0px 0px 0px;
+transform: rotate(180deg);
+
+}
+
+.vecderek{
+/* Rectangle 626 */
+
+position: absolute;
+width: 575px;
+height: 427px;
+left: 1085px;
+top: 572px;
+
+background: #26A69A;
+border-radius: 300px 0px 0px 0px;
+}
+
+.emekat{
+    /* Rectangle 625 */
+
+position: absolute;
+width: 400px;
+height: 450px;
+left: calc(50% - 400px/2 - 365px);
+top: 265px;
+
+background: #CBFFD0;
+border-radius: 27px;
+transform: rotate(180deg);
+
+}
+
+.emekatimg{
+    /* ix:user-profile-filled */
+
+position: absolute;
+width: 130px;
+height: 130px;
+left: calc(50% - 130px/2 - 365px);
+top: 286px;
+
+
+}
+
+.emekat1{
+    /* Our Features */
+
+position: absolute;
+width: 474px;
+height: 108px;
+left: calc(50% - 474px/2 - 365px);
+top: 428px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 54px;
+text-align: center;
+
+color: #000000;
+
+
+}
+
+.emekat2{
+    /* Our Features */
+
+position: absolute;
+width: 413px;
+height: 350px;
+left: calc(50% - 413px/2 - 367.5px);
+top: 469px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 45px;
+text-align: center;
+
+color: #000000;
+
+
+}
+
+
+.jasmin{
+    /* Rectangle 623 */
+
+position: absolute;
+width: 450px;
+height: 600px;
+left: calc(50% - 450px/2 + 4px);
+top: 190px;
+
+background: #26A69A;
+border-radius: 27px;
+/* transform: rotate(180deg); */
+
+}
+
+.jasmin1{
+    /* ix:user-profile-filled */
+
+position: absolute;
+width: 150px;
+height: 150px;
+left: calc(50% - 150px/2);
+top: 218px;
+
+
+}
+
+.jasmin2{
+    /* Our Features */
+
+position: absolute;
+width: 474px;
+height: 108px;
+left: calc(50% - 474px/2);
+top: 374px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 54px;
+text-align: center;
+
+color: #000000;
+}
+
+
+.jasmin3{
+    /* Our Features */
+
+position: absolute;
+width: 413px;
+height: 353px;
+left: calc(50% - 413px/2 + 0.5px);
+top: 437px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 54px;
+text-align: center;
+
+color: #000000;
+
+
+}
+
+
+.tolu{
+    /* Rectangle 624 */
+
+position: absolute;
+width: 400px;
+height: 450px;
+left: calc(50% - 400px/2 + 365px);
+top: 265px;
+
+background: #CBFFD0;
+border-radius: 27px;
+transform: rotate(180deg);
+
+}
+
+.tolu1{
+    /* ix:user-profile-filled */
+
+position: absolute;
+width: 130px;
+height: 130px;
+left: calc(50% - 130px/2 + 365px);
+top: 286px;
+
+
+}
+
+.tolu2{
+/* Our Features */
+
+position: absolute;
+width: 474px;
+height: 108px;
+left: calc(50% - 474px/2 + 365px);
+top: 428px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 54px;
+text-align: center;
+
+color: #000000;
+
+
+
+}
+
+.tolu3{
+/* Our Features */
+
+position: absolute;
+width: 390px;
+height: 350px;
+left: calc(50% - 413px/2 + 369.5px);
+top: 469px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 45px;
+text-align: center;
+
+color: #000000;
+
+
+
+}
+
+.trakle333{
+/* Rectangle 629 */
+
+position: absolute;
+width: 575px;
+height: 714px;
+left: -130px;
+top: 1772px;
+
+background: #CBFFD0;
+border-radius: 300px 0px 0px 0px;
+transform: rotate(180deg);
+
+}
+
+.section6688{
+    /* Rectangle 627 */
+
+position: absolute;
+width: 1440px;
+height: 1024px;
+left: calc(50% - 1440px/2);
+top: 4051px;
+
+/* background: #FFFFFF; */
+border-radius: 0px;
+/* transform: rotate(180deg); */
+
+}
+
+.jery111{
+/* Our Features */
+
+position: absolute;
+width: 362px;
+height: 72px;
+left: 499px;
+top: 200px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 72px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+}
+
+.doom10{
+    /* Rectangle 630 */
+
+position: absolute;
+width: 790px;
+height: 610px;
+left: 492px;
+top: 322px;
+
+background: #26A69A;
+border-radius: 37px;
+/* transform: rotate(180deg); */
+
+}
+
+.istrack222{
+    /* Rectangle 631 */
+
+position: absolute;
+width: 730px;
+height: 115px;
+left: 522px;
+top: 355px;
+
+background: #CBFFD0;
+border-radius: 27px;
+/* transform: rotate(180deg); */
+
+}
+
+.is-track-cont222{
+    /* Our Features */
+
+position: absolute;
+width: 481px;
+height: 72px;
+left: 550px;
+top: 383px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 37px;
+line-height: 56px;
+
+color: #000000;
+
+
+}
+
+.vet2t44{
+    /* solar:round-arrow-down-bold */
+
+position: absolute;
+width: 60px;
+height: 60px;
+left: 1167px;
+top: 383px;
+
+
+}
+
+.can-i-uuse1{
+    /* Rectangle 632 */
+
+position: absolute;
+width: 730px;
+height: 115px;
+left: 522px;
+top: 500px;
+
+background: #CBFFD0;
+border-radius: 27px;
+transform: rotate(180deg);
+
+}
+
+.can-i-use2{
+    /* Our Features */
+
+position: absolute;
+width: 481px;
+height: 72px;
+left: 550px;
+top: 528px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 37px;
+line-height: 56px;
+
+color: #000000;
+
+
+}
+
+.can-i-use3{
+    /* solar:round-arrow-down-bold */
+
+position: absolute;
+width: 60px;
+height: 60px;
+left: 1167px;
+top: 528px;
+
+
+}
+
+
+.datasecure1{
+    /* Rectangle 633 */
+
+position: absolute;
+width: 730px;
+height: 115px;
+left: 522px;
+top: 645px;
+
+background: #CBFFD0;
+border-radius: 27px;
+transform: rotate(180deg);
+
+}
+
+
+.datasecure2{
+   /* Our Features */
+
+position: absolute;
+width: 481px;
+height: 72px;
+left: 550px;
+top: 673px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 37px;
+line-height: 56px;
+
+color: #000000;
+
+ 
+}
+
+.datasecure3{
+    /* solar:round-arrow-down-bold */
+
+position: absolute;
+width: 60px;
+height: 60px;
+left: 1167px;
+top: 673px;
+
+
+}
+
+.anios{
+    /* Rectangle 634 */
+
+position: absolute;
+width: 730px;
+height: 115px;
+left: 522px;
+top: 790px;
+
+background: #CBFFD0;
+border-radius: 27px;
+transform: rotate(180deg);
+
+}
+
+
+.anois1{
+   /* Our Features */
+
+position: absolute;
+width: 653px;
+height: 72px;
+left: 550px;
+top: 818px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 37px;
+line-height: 56px;
+
+color: #000000;
+
+ 
+}
+
+.anois2{
+    /* solar:round-arrow-down-bold */
+
+position: absolute;
+width: 60px;
+height: 60px;
+left: 1167px;
+top: 818px;
+
+
+}
+
+.foot111{
+    /* Rectangle 628 */
+
+position: absolute;
+width: 1440px;
+height: 769px;
+left: calc(50% - 1440px/2);
+top: 5075px;
+
+background: #26A69A;
+box-shadow: 0px -10px 30px 1px rgba(0, 0, 0, 0.25), 0px 10px 30px 1px rgba(0, 0, 0, 0.25);
+border-radius: 0px;
+/* transform: rotate(180deg); */
+
+}
+
+.footimg{
+/* TrackWise..Artboard 3 1 */
+
+position: absolute;
+width: 253px;
+height: 202.84px;
+top: 0px;
+
+background: url(TrackWise..Artboard_3-removebg-preview.png);
+left: calc(45% - 65px/2 + 7.5px);
+}
+
+.trw{
+    /* TrackWISE */
+position: absolute;
+width: 253px;
+height: 60px;
+top: 135px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 60px;
+/* identical to box height */
+text-align: center;
+left: calc(45% - 55px/2 + 4.5px);
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+}
+
+.footn1{
+    /* Your financial clarity starts here */
+
+position: absolute;
+width: 750px;
+height: 65px;
+left: calc(50% - 750px/2);
+top: 241px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 43px;
+line-height: 64px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+
+}
+
+.logx1{
+/* streamline-logos:x-twitter-logo-block */
+
+position: absolute;
+width: 65px;
+height: 65px;
+left: 582px;
+top: 331px;
+
+
+}
+
+.ri-insta{
+    /* ri:instagram-fill */
+
+position: absolute;
+width: 65px;
+height: 65px;
+left: calc(50% - 65px/2 + 7.5px);
+top: 331px;
+}
+
+.vf23{
+    /* uiw:facebook */
+
+position: absolute;
+width: 65px;
+height: 65px;
+left: 811px;
+top: 331px;
+
+border-radius: 17px;
+
+}
+
+.holder234{
+    /* Actions */
+
+position: absolute;
+width: 465px;
+height: 65px;
+left: calc(50% - 465px/2 + 0.5px);
+top: 428px;
+display: flex;
+flex-direction: row;
+
+
+}
+
+.logo-g{
+
+
+/* Black */
+background: #000000;
+mix-blend-mode: normal;
+border: 1.59091px solid #A6A6A6;
+border-radius: 11.1364px;
+display: flex;
+flex-direction: row;
+
+}
+
+.packsol{
+    /* icon-park-solid:phone-two */
+
+position: absolute;
+width: 50px;
+height: 50px;
+left: 522px;
+top: 559px;
+
+border-radius: 27px;
+
+}
+
+.concieve{
+    /* Contact Support */
+
+position: absolute;
+width: 339px;
+height: 65px;
+left: calc(50% - 339px/2 + 29.5px);
+top: 551px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 60px;
+
+color: #FFFFFF;
+
+
+}
+
+.about{
+    /* Our Features */
+
+position: absolute;
+width: 481px;
+height: 72px;
+left: 0px;
+top: 644px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 60px;
+text-align: center;
+text-decoration-line: underline;
+
+color: #FFFFFF;
+
+
+}
+
+.pvc{
+    /* Our Features */
+
+position: absolute;
+width: 481px;
+height: 72px;
+left: 480px;
+top: 644px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 60px;
+text-align: center;
+text-decoration-line: underline;
+
+color: #FFFFFF;
+
+
+}
+
+.terms{
+    /* Our Features */
+
+position: absolute;
+width: 481px;
+height: 72px;
+left: 960px;
+top: 644px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 60px;
+text-align: center;
+text-decoration-line: underline;
+
+color: #FFFFFF;
+
+
+}
+
+
+
+

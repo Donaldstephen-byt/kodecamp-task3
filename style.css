@@ -11,7 +11,7 @@ body{
     margin: 0;
     padding: 10;
     height:5726;
-    width: 1440px;
+    width: 1440;
  
   
 
@@ -406,7 +406,7 @@ color: #FFFFFF;
     /* Rectangle 604 */
 
 position: absolute;
-width: 500px;
+width: 460px;
 height: 714px;
 left: 986px;
 top: 265px;
@@ -420,7 +420,7 @@ border-radius: 300px 0px 0px 0px;
     /* mockuuups-free-macbook-pro-mockup-on-stone-pedestal-removebg-preview 1 */
 
 position: absolute;
-width: 969px;
+width: 770px;
 height: 727.14px;
 left: 677px;
 top: 298px;
@@ -448,6 +448,7 @@ background: url(.png);
 position: absolute;
 width: 1440px;
 height: 1024px;
+right: 4px;
 left: 4px;
 top: 979px;
 
@@ -1011,6 +1012,7 @@ background: url(mockuuups-female-hand-holding-iphone-14-pro-mockup.png);
 position: absolute;
 width: 1440px;
 height: 1024px;
+right: 4px;
 left: 4px;
 top: 3027px;
 
@@ -1300,7 +1302,7 @@ transform: rotate(180deg);
 position: absolute;
 width: 1440px;
 height: 1024px;
-left: calc(50% - 1440px/2);
+left: 4px;
 top: 4051px;
 
 /* background: #FFFFFF; */
@@ -1543,7 +1545,8 @@ top: 818px;
 position: absolute;
 width: 1440px;
 height: 769px;
-left: calc(50% - 1440px/2);
+left: 4px;
+right: 4px;
 top: 5075px;
 
 background: #26A69A;
